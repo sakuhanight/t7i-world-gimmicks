@@ -15,9 +15,6 @@
     "gimmick",
     "interaction"
   ],
-  "vpmDependencies": {
-    "com.vrchat.worlds": "^3.4.x"
-  },
   "documentationUrl": "https://github.com/sakuhanight/t7i-world-gimmicks",
   "license": "MIT",
   "hideInEditor": false
