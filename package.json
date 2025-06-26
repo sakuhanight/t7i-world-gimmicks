@@ -1,0 +1,24 @@
+﻿{
+  "name": "io.t7i.world-gimmicks",
+  "displayName": "T7i World Gimmicks",
+  "version": "0.1.0",
+  "description": "VRChat world gimmicks collection",
+  "author": {
+    "name": "TOKIMINE Sakuha",
+    "url": "https://github.com/sakuhanight"
+  },
+  "unity": "2022.3",
+  "unityRelease": "22f1",
+  "keywords": [
+    "vrchat",
+    "world",
+    "gimmick",
+    "interaction"
+  ],
+  "vpmDependencies": {
+    "com.vrchat.worlds": "^3.4.x"
+  },
+  "documentationUrl": "https://github.com/sakuhanight/t7i-world-gimmicks",
+  "license": "MIT",
+  "hideInEditor": false
+}

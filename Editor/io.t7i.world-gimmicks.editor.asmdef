@@ -1,0 +1,22 @@
+﻿{
+    "name": "io.t7i.world-gimmicks.editor",
+    "rootNamespace": "T7i.WorldGimmicks.Editor",
+    "references": [
+        "io.t7i.world-gimmicks",
+        "VRC.SDK3",
+        "VRC.SDKBase",
+        "UdonSharp.Editor",
+        "UdonSharp.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
